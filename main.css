@@ -44,5 +44,5 @@ h1 {
 	margin: 2px;
 	border: 1px solid black;
 	border-radius: 5px;
-	overflow: hidden;
+	overflow: overlay;
 }
